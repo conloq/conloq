@@ -12,7 +12,7 @@ O Mash reúne o acompanhamento da mosturação na produção de cerveja artesana
 |---|---|
 | [`conloq/mash`](https://github.com/conloq/mash) | Issues, roteiro de execução e protótipo monolítico inicial |
 | [`conloq/Back-End`](https://github.com/conloq/Back-End) | API REST com Express 5, Sequelize, MySQL, JWT e Argon2id |
-| [`conloq/frontend`](https://github.com/conloq/frontend) | Aplicação web em EJS e Tailwind CSS |
+| [`conloq/frontend`](https://github.com/conloq/frontend) | Aplicação web em Next.js (React) e Tailwind CSS |
 | [`conloq/database`](https://github.com/conloq/database) | Documentação e diagramas MER do banco |
 | [`conloq/documentation`](https://github.com/conloq/documentation) | Documentação técnica e acadêmica por área |
 | [`conloq/landing-page-conloq`](https://github.com/conloq/landing-page-conloq) | Landing page institucional |
